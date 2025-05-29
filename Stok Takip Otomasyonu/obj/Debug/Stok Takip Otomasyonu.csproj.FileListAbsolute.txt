@@ -1,0 +1,65 @@
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe.config
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmMusteriEkle.resources
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Form1.resources
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.exe
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe.config
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmMusteriEkle.resources
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Form1.resources
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.exe
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmMusteriListele.resources
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmKategori.resources
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmMarka.resources
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmÜrünEkle.resources
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmÜrünLisele.resources
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe.config
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmKategori.resources
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmMarka.resources
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmMusteriEkle.resources
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmMusteriListele.resources
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Form1.resources
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmÜrünEkle.resources
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmÜrünLisele.resources
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.exe
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmSatışListele.resources
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmkullanicilar.resources
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe.config
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmKategori.resources
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmkullanicilar.resources
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmMarka.resources
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmMusteriEkle.resources
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmMusteriListele.resources
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Form1.resources
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmSatışListele.resources
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmÜrünEkle.resources
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmÜrünLisele.resources
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.exe
+C:\Users\Ferdi\Desktop\ÜNİVERSİTE\2.Sınıf\2. Dönem\Sistem Analizi ve Tasarımı\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmBitti.resources
+C:\Users\Ferdi\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmSifreYenilemecs.resources
